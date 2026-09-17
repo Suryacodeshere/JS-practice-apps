@@ -21,7 +21,7 @@
 
 ## 🚀 Live Demo
 
-[View Live App](https://js-weather-app-practice-c552826or-suryas-projects-b65a9565.vercel.app/)
+[View Live App](https://js-weather-app-practice.vercel.app/)
 
 ## 🛠️ Run Locally
 
